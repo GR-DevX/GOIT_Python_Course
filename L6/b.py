@@ -1,4 +1,4 @@
-from a import raise_salary
+from L8.a import raise_salary
 #include
 def f(a,b):
     pass
